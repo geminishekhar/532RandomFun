@@ -38,7 +38,7 @@ sa-beer
 Brianna
 prathyusha
 seth
-shek-ar
+[x] shek-ar
 show (like shower) -- choong
 ay-mihn
 [x] Kyle
